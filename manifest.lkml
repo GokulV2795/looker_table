@@ -1,3 +1,5 @@
+dependencies:  "[1"]
+
 Visualization: {
   Id: “table”
   Label: “Table”
